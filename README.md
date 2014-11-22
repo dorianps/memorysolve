@@ -7,7 +7,7 @@ A tool to provide estimates of recollection and familiarity from 6 (or 4) point 
 
 This tool provdes estimates of recollection and familiarity from 6 (or 4) point confidence responses. The original solving
 formula is taken from DPSDSSE.xls (see Andrew Yonelinas page):
-http://psychology.ucdavis.edu/labs/Yonelinas/section_1_5.html
+http://yonelinas.faculty.ucdavis.edu/software/
 
 Usage:
 [familiarity recollection] = memorysolve(x)
